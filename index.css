@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    align-items: center;
+}
+
+.container{
+    background: wheat;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    padding: 50px 50px;
+    
+}
+
+p{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtb{
+    transform: translate(-100%,0);
+}
+
+#noBtn {
+    position: absolute;
+    /*
+    top: 50%;
+    left:0%;
+    transform: translate(0%, -50%);
+*/
+}
+
+
+.container > button{
+ width: 5vw;
+ height: 5vh;
+ color: black;
+}
