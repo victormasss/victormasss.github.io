@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Yo sabia que me Amas, Yo igual te Amo y mucho')
+    alert('Yo sabia que me amas, yo igual te amo y mucho')
 });
 
 const noBtn = document.querySelector('#noBtn');
